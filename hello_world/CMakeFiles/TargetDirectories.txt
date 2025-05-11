@@ -1,0 +1,6 @@
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/hello_world.dir
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/hello_world-velf.dir
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/hello_world.self-self.dir
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/hello_world.vpk-vpk.dir
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/edit_cache.dir
+/home/stef/Documents/Programming/vitasdk-samples/samples/hello_world/CMakeFiles/rebuild_cache.dir
